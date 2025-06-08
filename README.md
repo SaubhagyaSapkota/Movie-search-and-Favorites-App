@@ -49,9 +49,9 @@ Follow these steps to set up and run the application on your local machine:
 
 4.  **Run the App:**
     ```bash
-    npm start
+    npm run dev
     # OR
-    yarn start
+    yarn run dev
     ```
 ### Folder Structure
 src/
