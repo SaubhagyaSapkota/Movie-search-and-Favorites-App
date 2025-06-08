@@ -1,0 +1,29 @@
+.main-content {
+  padding: 20px 0;
+}
+
+.search-results-section,
+.favorites-section {
+  background-color: #f9f9f9;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+.search-results-section h2,
+.favorites-section h2 {
+  font-size: 2em;
+  color: #007bff;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 25px;
+  border-bottom: 2px solid #e0e0e0;
+  padding-bottom: 15px;
+}
+
+.favorites-section {
+  background-color: #eaf6ff;
+  border-color: #a0cbed;
+}
