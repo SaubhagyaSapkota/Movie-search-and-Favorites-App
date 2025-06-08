@@ -62,7 +62,7 @@
   font-size: 0.9em;
   transition: background-color 0.3s ease;
   width: 90%;
-  align-self: center; /* Center the button within the flex column */
+  align-self: center;
 }
 
 .favorite-button.add {
