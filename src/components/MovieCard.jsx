@@ -1,10 +1,7 @@
 import "../styles/MovieCard.css";
 
 function MovieCard({ movie, isFavorite, onToggleFavorite }) {
-  const imageUrl =
-    movie.Poster && movie.Poster !== "N/A"
-      ? movie.Poster
-      : "https://via.placeholder.com/150x225?text=No+Poster";
+  const imageUrl = movie.Poster ;
   return (
     <div className="movie-card">
       <img
